@@ -46,7 +46,6 @@ Baseline systematic momentum research with risk controls.
 ## Background
 
 - 🎓 **BSc in Computer Science & Engineering**
-- 🎓 Incoming **MSc student (Data Science & AI for Business)** at **X-HEC**
 - 📍 Beirut, Lebanon
 
 ---
