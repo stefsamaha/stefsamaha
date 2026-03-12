@@ -1,6 +1,6 @@
 # Stefanie Samaha
 
-**AI Engineer · Quantitative Researcher · CS & Engineering @ AUB**
+**AI Engineer · Quantitative Researcher · Computer and Communications Engineering @ AUB**
 
 I build research-driven systems at the intersection of **machine learning and quantitative finance** — from systematic equity strategies to production-grade AI pipelines. I care about *why* models work, not just whether they do.
 
@@ -18,13 +18,12 @@ Currently: AI Engineer at **Murex** (global capital markets software) · Securit
 
 ---
 
-## What I Work On
-
-- **Systematic equity strategies** — momentum signals, cross-sectional ranking, factor models
-- **Derivatives pricing** — risk-neutral valuation, binomial lattices, Black-Scholes
-- **ML for finance** — IC evaluation, ensemble methods, backtesting with no look-ahead bias
-- **Production AI** — RAG pipelines, LLM fine-tuning, vector embeddings at scale (Murex)
-- **Security research** — ML-based anomaly detection in SDN environments (AUB, co-authoring 2026)
+## Collaboration
+I’m always **open to collaborating** on:
+- quantitative finance research
+- ML-driven trading ideas
+- data science projects with real-world grounding
+Feel free to reach out or open an issue on any repo!
 
 ---
 
@@ -36,12 +35,11 @@ Currently: AI Engineer at **Murex** (global capital markets software) · Securit
 
 ---
 
-## Background
-
-- 🎓 B.E. Computer & Communications Engineering, **American University of Beirut** — GPA 4.0
-- 🏆 AWS AI-ML Scholar 2024 · MEPI-TLS Scholar · LIFE Scholar
-- 🏉 Youngest player selected to the **Lebanese National Rugby Team**
-- 🥊 Boxing coach · National Table Tennis Champion · Poetry competition winner (62 countries)
+## Outside of work
+When I’m not coding or researching, I enjoy:
+- 🎮 Gaming
+- 📚 Reading
+- 🏋️ Going to the gym and Boxing
 
 ---
 
