@@ -1,8 +1,8 @@
 # Stefanie Samaha
 
-**AI Engineer · Quantitative Researcher · Computer and Communications Engineering @ AUB**
+**AI/ML Engineer · Quantitative Researcher · Computer and Communications Engineering @ AUB**
 
-I build research-driven systems at the intersection of **machine learning and quantitative finance** — from systematic equity strategies to production-grade AI pipelines. I care about *why* models work, not just whether they do.
+I build research-driven systems at the intersection of **machine learning and quantitative finance**; from systematic equity strategies to production-grade AI pipelines. I care about *why* models work, not just whether they do.
 
 Currently: AI Engineer at **Murex** (global capital markets software) · Security Researcher @ AUB 
 
@@ -38,9 +38,9 @@ Feel free to reach out or open an issue on any repo!
 
 ## Outside of work
 When I’m not coding or researching, I enjoy:
-- 🎮 Gaming, Lego Building 
-- 📚 Reading
-- 🏋️ Going to the gym and Boxing
+- Gaming, Lego Building 
+- Reading
+- Going to the gym and Boxing
 
 ---
 
