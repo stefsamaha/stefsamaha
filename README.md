@@ -2,7 +2,7 @@
 
 **Applied ML Engineer · Quantitative Research · Agentic AI Systems**
 
-I build machine learning systems for messy, high-dimensional data where predictions have real consequences — from financial markets and enterprise knowledge systems to agentic browser automation.
+I build machine learning systems for messy, high-dimensional data where predictions have real consequences - from financial markets and enterprise knowledge systems to agentic browser automation.
 
 My work sits at the intersection of **applied ML, quantitative research, and production AI engineering**. I care about building models that are not only performant, but also robust, interpretable, and useful under real-world constraints.
 
