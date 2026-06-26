@@ -67,10 +67,10 @@ Feel free to reach out or open an issue on any repo.
 
 ## Stack
 
-**ML / Data:** Python · NumPy · Pandas · scikit-learn · LightGBM · PyTorch · TensorFlow · Hugging Face
-**Quant:** factor modeling · backtesting · time-series analysis · risk-neutral valuation · statistical modeling
-**Systems:** Git · Docker · AWS · PostgreSQL · FastAPI · n8n · Bash
-**Languages:** English · French · Arabic · Spanish · Russian, learning
+- **ML / Data:** Python · NumPy · Pandas · scikit-learn · LightGBM · PyTorch · TensorFlow · Hugging Face
+- **Quant:** factor modeling · backtesting · time-series analysis · risk-neutral valuation · statistical modeling
+- **Systems:** Git · Docker · AWS · PostgreSQL · FastAPI · n8n · Bash
+- **Languages:** English · French · Arabic · Spanish · Russian, learning
 
 ---
 
