@@ -10,6 +10,8 @@ I recently graduated from the **American University of Beirut** with a degree in
 
 Recent work includes AI/RAG systems at **Murex**, agentic browser automation at **Gaya.ai**, and independent quantitative research projects in stock prediction, alpha ranking, option pricing, and systematic strategies.
 
+ **Incoming MSc Data Science & AI**, École Polytechnique & HEC Paris
+
 ---
 
 ## Current Focus
@@ -46,17 +48,6 @@ Recent work includes:
 - Deploying enterprise RAG pipelines over 100K+ documents using scalable embedding, chunking, deduplication, retrieval, and evaluation workflows
 - Building agentic browser automation systems with live DOM extraction, reusable YAML/handler architecture, entity tracking, recovery logic, and safe handoff flows
 - Framing low-rate DDoS detection as statistical anomaly detection over real-time traffic distributions with entropy features, Bayesian updating, and adaptive thresholds
-
----
-
-## Selected Background
-
-- **Incoming MSc Data Science & AI**, École Polytechnique & HEC Paris
-- **B.E. Computer & Communications Engineering**, American University of Beirut — GPA: **4.0/4.0**
-- **Mental Math National Champion**, Lebanon — 2014, 2016, 2017
-- **ICPC/LCPC Top 5 nationally**, 2 consecutive years
-- **Lead Teaching Assistant**, Python and C++ programming labs at AUB
-- **Co-Founder & Head Tutor**, Gradelift Academy
 
 ---
 
