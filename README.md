@@ -6,16 +6,17 @@ I build machine learning and data-driven systems for noisy, high-dimensional pro
 
 My work sits at the intersection of **quantitative research, applied ML, and production AI engineering**. I care about models that are not only accurate, but also leakage-safe, robust under distribution shift, interpretable enough to debug, and useful under real-world constraints.
 
-I recently graduated from the **American University of Beirut** with a degree in **Computer & Communications Engineering** and a **4.0/4.0 GPA**. In September 2026, I will start the **X-HEC MSc Data Science & AI** at École Polytechnique and HEC Paris.
+I am currently in **M1 (the first year) of the X-HEC MSc Data Science & AI** at **École Polytechnique and HEC Paris**, and an **incoming Quantitative Research Intern at Millennium**. I graduated from the **American University of Beirut** with a degree in **Computer & Communications Engineering** and a **4.0/4.0 GPA**.
+
+Alongside my studies, I conduct **social science research under the supervision of Étienne Ollion and Julien Boelaert**, exploring the question: **Can AI replace human participants in surveys and experiments?**
 
 Recent work includes AI/RAG systems at **Murex**, agentic browser automation at **Gaya.ai**, and independent quantitative research projects in stock prediction, alpha ranking, option pricing, and systematic strategies.
-
- **Incoming MSc Data Science & AI**, École Polytechnique & HEC Paris
 
 ---
 
 ## Current Focus
 
+- AI in social science: investigating whether AI can replace human participants in surveys and experiments
 - Leakage-aware ML for noisy prediction problems
 - Quantitative research, systematic strategies, and market microstructure intuition
 - Applied probability, stochastic modeling, and statistical hypothesis testing
