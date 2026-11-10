@@ -83,4 +83,4 @@ When I’m not coding or researching, I’m probably reading, gaming, building L
 
 ---
 
-📧 [sms111@mail.aub.edu](mailto:sms111@mail.aub.edu) · [LinkedIn](https://www.linkedin.com/in/stefanie-samaha-157598202/)
+📧 [stefanie.samaha@polytechnique.edu](mailto:stefanie.samaha@polytechnique.edu) · [LinkedIn](https://www.linkedin.com/in/stefanie-samaha-157598202/)
